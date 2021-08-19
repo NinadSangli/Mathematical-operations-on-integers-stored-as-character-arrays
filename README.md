@@ -7,6 +7,7 @@ it doesn't matter if the number is 0 or 2147483647 (INT_MAX). Intals on the othe
 In addition to this, there are no limitations i.e no MAX value that an intal can hold. An intal can be very useful for large calculations such as the results of 
 factorials and combinations which are often too large to be stored in an integer variable in C. This is also true for larger numbers in the fibonacci series.
 
+This implementation has been tested with Valgrind and has no memory leaks.
 
 2. Approach
 
