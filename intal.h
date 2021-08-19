@@ -5,14 +5,6 @@
 // That is, the most significant digit is at the head of the string.
 // Eg: Integer 25 is stored in str as '2' at str[0], '5' at str[1], and null char at str[2].
 
-// DO NOT modify this header file.
-// Your deliverable is the implementation file.
-// The implementation file has the definition of the functions decalred here.
-// You can write some of your own helper functions, keep them "static".
-// Use the sample test file (that has the main function) to test your implementation.
-
-// To generate your own testcases, you can use https://www.omnicalculator.com/math
-
 // Returns the sum of two intals.
 char* intal_add(const char* intal1, const char* intal2);
 
