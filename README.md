@@ -105,4 +105,4 @@ For this, I implemented the sliding window of 3 approach given in the lecture sl
 3. Future Work
 
 Division while useful would be not possible to implement as intals have to be integers. Truncated division function could be implemented and used along with the mod function to 
-obtain the result of division. If there were no restrictions, an integer array rather than a character array would make things a little easier as type casting would not be a worry. 
+obtain the result of division. 
